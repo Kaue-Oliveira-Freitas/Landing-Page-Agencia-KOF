@@ -1,0 +1,1 @@
+Este é um pequeno projeto meu feito durante um curso de HTML e CSS onde eu criei uma landing page para uma agência criada por mim, eomente para fins educativos. O projeto possui apenas HTML e CSS, ainda não possui javascript.
